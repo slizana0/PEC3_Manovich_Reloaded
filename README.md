@@ -63,6 +63,16 @@ Además, mediante crowdsourcing, invita al usuario a formar parte de esta experi
 
 En cuanto a estrategias de hibridación, siguiendo la categorización de Manovich, a diferencia de Shazam, Duolingo se centra básicamente en crear nuevas maneras de interacción con formatos de medios que ya existían, como la gramática, la participación en clase, los ejercicios, etc. Esto, unido a las mecánicas de juego y algoritmos adaptativos, hace que se genere un nuevo lenguaje que tampoco antes existía.
 
+## Conclusión
+Tanto Shazam como Duolingo son, con las gafas de Manovich, nuevas especies de medios, aunque distintas.
+
+En Shazam ocurre lo que Manovich llama ‘nuevos tipos de representación híbrida’: los usuarios no percibimos que hemos entrado en una aplicación que reúne varios medios a la vez. Esto es gracias a la estética de la hibridación. Cuando “shazameamos”, entramos en un mundo nuevo a través de la interfaz. El sonido ambiente es la frontera entre el mundo físico y el digital. 
+
+Duolingo, en cambio, no reúne medios distintos bajo una nueva interfaz, sino que une técnicas que antes eran incompatibles, como la evaluación pedagógica, la mecánica del juego y el algoritmo adaptativo, de manera que, al mezclarlas, ya son imposibles de separar. Como apunta Manovich, *“Cuando se integra una operación de medios predigitales en un entorno general de producción digital, suele asumir una funcionalidad distinta”* (Manovich, 2013, p.332).
+
+Entonces, su estética es la gamificación convertida en pedagogía. Además, al haber evolucionado todos estos años para acoger idiomas, matemáticas, música y ajedrez, hace que los usuarios contribuyan a construirla. Esto acerca más a Duolingo que a Shazam a ser una plataforma de medios.
+
+Y esta idea es la que hace que no se tengan que descargar más de una aplicación para tener un lugar completo donde repasar, jugar y aprender. Esto hace que no se nos llene la memoria del móvil de aplicaciones que al final, quizá te acabes aburriendo, que ocupan espacio y que no dejan hueco para otras cosas como fotografías y acabes usando Google fotos, o al menos esa es mi opinión.
 
 
 ### Referencias y Bibliografía
