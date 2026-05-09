@@ -8,11 +8,15 @@ Autor: Sergio Lizana García
 
 Fecha: 6 de mayo de 2025
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+## Índice
+1. [Introducción](#introducción)
+2. [Shazam](#re-descubriendo-la-hibridacion-shazam)
+3. [Duolingo](#re-descubriendo-la-hibridacion-duolingo)
+4. [Conclusión](#conclusión)
+5. [Referencias y Bibliografía](#referencias-y-bibliografía)
 
 
-
-## Planteamiento
+## Introducción
 
 
 Vivimos una época en la que nuestro móvil forma parte de nuestro día a día. Además, vamos todo el día atareados y con el tiempo justo. En este dispositivo, descargamos aplicaciones para que nos aporte algo con el poco tiempo del que disponemos.
@@ -30,6 +34,8 @@ Un ejemplo de multimedia, podría ser una web de principios del 2.000, o Encarta
 
 
 ## Re-descubriendo la hibridacion: Shazam
+
+![Cultura Digital]([[https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://cursos.com/blog/duolingo/](https://assets.shazam.com/website/images/apps2/2000x2000/download-phones-2026.webp))) 
 
 Recuerdo que esta aplicación me la recomendaron para que pudiera saber qué música ponían en la discoteca allá por el año 2009, diez años más tarde de su invención. Entonces era una aplicación muy básica y su base de datos era bastante escasa. 
 
@@ -52,6 +58,8 @@ Si Shazam hibrida el sonido, el vídeo, el listado de conciertos, entre otros, D
 
 
 ## Re-descubriendo la hibridacion: Duolingo
+
+![Cultura Digital]([https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://cursos.com/blog/duolingo/)) 
 
 La primera vez que conocí Duolingo, fue en 2013, para repasar inglés. La aplicación entonces, no tenía muchos años, y como repaso era bastante buena. 
 A día de hoy es bastante distinta. No sólo te permite aprender idiomas, sino también matemáticas, música e incluso aprender ajedrez de manera online con otros usuarios.
