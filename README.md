@@ -83,7 +83,7 @@ Entonces, su estética es la gamificación convertida en pedagogía. Además, al
 Y esta idea es la que hace que no se tengan que descargar más de una aplicación para tener un lugar completo donde repasar, jugar y aprender. Esto hace que no se nos llene la memoria del móvil de aplicaciones que al final, quizá te acabes aburriendo, que ocupan espacio y que no dejan hueco para otras cosas como fotografías y acabes usando Google fotos, o al menos esa es mi opinión.
 
 
-### Referencias y Bibliografía
+## Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 * Gea, M. (2022). **Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto** Barcelona: Editorial UOC.
