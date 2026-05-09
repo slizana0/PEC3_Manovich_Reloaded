@@ -35,7 +35,7 @@ Un ejemplo de multimedia, podría ser una web de principios del 2.000, o Encarta
 
 ## Re-descubriendo la hibridacion: Shazam
 
-![Cultura Digital]([[https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://cursos.com/blog/duolingo/](https://assets.shazam.com/website/images/apps2/2000x2000/download-phones-2026.webp))) 
+![Shazam App](https://assets.shazam.com/website/images/apps2/2000x2000/download-phones-2026.webp)
 
 Recuerdo que esta aplicación me la recomendaron para que pudiera saber qué música ponían en la discoteca allá por el año 2009, diez años más tarde de su invención. Entonces era una aplicación muy básica y su base de datos era bastante escasa. 
 
@@ -59,7 +59,7 @@ Si Shazam hibrida el sonido, el vídeo, el listado de conciertos, entre otros, D
 
 ## Re-descubriendo la hibridacion: Duolingo
 
-![Cultura Digital]([https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://cursos.com/blog/duolingo/)) 
+![Duolingo App](https://cursos.com/wp-content/uploads/2021/03/duolingo-blog.jpg)
 
 La primera vez que conocí Duolingo, fue en 2013, para repasar inglés. La aplicación entonces, no tenía muchos años, y como repaso era bastante buena. 
 A día de hoy es bastante distinta. No sólo te permite aprender idiomas, sino también matemáticas, música e incluso aprender ajedrez de manera online con otros usuarios.
@@ -95,6 +95,7 @@ Y esta idea es la que hace que no se tengan que descargar más de una aplicació
 * https://es.duolingo.com/
 * https://es.duolingo.com/chess 
 
+[↑ Subir al índice](#índice)
 
 ----
 
