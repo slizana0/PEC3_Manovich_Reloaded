@@ -99,7 +99,7 @@ Y esta idea es la que hace que no se tengan que descargar más de una aplicació
 * https://cursos.com/blog/duolingo/ (para la imágen)
 
 ## Licencia
-<img src="[https://diff.wikimedia.org/?attachment_id=96581](https://diff.wikimedia.org/wp-content/uploads/2023/06/Creative-Commons-Attribution-ShareAlike-badge.png?fit=1024%2C358)" width="50">
+![CC]([https://assets.shazam.com/website/images/apps2/2000x2000/download-phones-2026.webp](https://diff.wikimedia.org/wp-content/uploads/2023/06/Creative-Commons-Attribution-ShareAlike-badge.png?fit=1024%2C358))
 
 · Este repositorio y su contenido han sido desarrollados bajo la licencia Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0). Cualquier individuo puede compartir, copiar, redistribuir y adaptar el contenido, siempre atribuyéndo la autoría original, manteniéndolo bajo la misma licencia en las obras derivadas.
 · La licencia de cada imágen pertenece exclusivamente a los propietarios de las aplicaciones, empleándolas yo mismo para fines educativos. La imágen de Shazam pertenece a Apple inc., mientras que la de Duolingo pertenece a Duolingo Inc.
