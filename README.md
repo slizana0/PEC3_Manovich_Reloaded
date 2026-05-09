@@ -59,7 +59,7 @@ Si Shazam hibrida el sonido, el vídeo, el listado de conciertos, entre otros, D
 
 ## Re-descubriendo la hibridacion: Duolingo
 
-![Duolingo App](https://cursos.com/wp-content/uploads/2021/03/duolingo-blog.jpg)
+![Duolingo](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png)
 
 La primera vez que conocí Duolingo, fue en 2013, para repasar inglés. La aplicación entonces, no tenía muchos años, y como repaso era bastante buena. 
 A día de hoy es bastante distinta. No sólo te permite aprender idiomas, sino también matemáticas, música e incluso aprender ajedrez de manera online con otros usuarios.
